@@ -1,0 +1,392 @@
+[
+  {
+    "image_path": "Dataset/Apple Watch Series 8(scratched).webp",
+    "original_title": "Apple Watch Series 8 (Heavily Scratched)",
+    "original_description": "Apple Watch Series 8 featuring a silver-tone aluminum case and a metallic Milanese loop band. The device is in poor cosmetic condition, exhibiting extensive, highly visible scratches across the entire glass display and heavy scuffing on the band's magnetic connector.",
+    "ai_title": "Apple Watch with Cracked Screen - Silver Case and Band",
+    "ai_description": "This Apple Watch features a silver metal case and a matching silver mesh band. The watch face is black and exhibits multiple scratches across its surface. Notably, there is a crack in the lower right corner of the screen. The watch case and band show signs of wear but are primarily in tact. The watch has a single crown on the right side for navigation.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description captures some vital details, such as the silver color of the case, but contains several inaccuracies and hallucinations. It incorrectly describes the band as a 'mesh band' instead of a 'metallic Milanese loop band'. The AI also incorrectly states that the watch face is black and claims there is a crack in the lower right corner of the screen, which is not mentioned in the Ground Truth. However, it does mention scratches on the watch face, which is consistent with the Ground Truth.",
+      "score": 2
+    }
+  },
+  {
+    "image_path": "Dataset/Bowflex SelectTech 552 Adjustable Dumbbells.webp",
+    "original_title": "Bowflex SelectTech 552 Adjustable Dumbbells",
+    "original_description": "A pair of adjustable dumbbells resting in their custom molded base trays. Each dumbbell features a dial selection system on the ends, allowing the user to easily adjust the weight from 5 to 52.5 lbs. The dumbbells have black weight plates with red accents on the handles and dials.",
+    "ai_title": "NordicTrack Adjustable Dumbbells",
+    "ai_description": "The dumbbells are made of black plastic and metal, with red accents on the weight selection dials. The weight range is 5-50 pounds, as indicated by the numbers on the dial. The dumbbells have a sturdy base and a comfortable grip. There are no visible cracks or major damage, but there are some minor scuffs on the surface.",
+    "category_match": false,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description captures some vital details such as the presence of red accents and the weight range. However, it introduces inaccuracies like the material composition (black plastic and metal) and the weight range (5-50 pounds instead of 5-52.5 lbs). The description also hallucinates details about the condition of the dumbbells (minor scuffs, no visible cracks or major damage) that are not present in the Ground Truth. Additionally, it misses the custom molded base trays mentioned in the Ground Truth.",
+      "score": 3
+    }
+  },
+  {
+    "image_path": "Dataset/Catan (Settlers of Catan) Board Game.webp",
+    "original_title": "Catan (Settlers of Catan) Board Game",
+    "original_description": "The classic strategy board game Catan set up mid-play. The image displays the modular hexagonal board composed of various resource tiles, surrounded by water and port borders. It features colorful wooden player pieces representing roads, settlements, and cities, along with circular number tokens, two six-sided dice, and the black robber pawn.",
+    "ai_title": "Catan Game Board",
+    "ai_description": "The game board is primarily composed of cardboard or a similar material and features a blue ocean section with interlocking hexagonal land tiles. These tiles display different terrains and are numbered. The board includes various colored wooden or plastic settlement pieces and roads. Two dice are present on the board. The game piece is black. The board shows signs of use, with some minor wear on the surface.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description captures some vital details such as the hexagonal land tiles, the presence of settlement pieces, roads, and dice. However, it misses key details like the representation of cities and the black robber pawn. The AI also introduces inaccuracies, such as describing the board as primarily composed of cardboard and mentioning the game showing signs of use, which is not present in the Ground Truth. The description avoids major hallucinations but lacks completeness and accuracy in representing the game components.",
+      "score": 3
+    }
+  },
+  {
+    "image_path": "Dataset/Coach Leather Tote Bag.webp",
+    "original_title": "Coach Leather Tote Bag",
+    "original_description": "A premium Coach leather tote bag featuring a spacious main compartment, sturdy double shoulder straps, and the signature Coach logo hangtag. Crafted from high-quality leather, this versatile accessory is ideal for everyday use, work, or travel.",
+    "ai_title": "Coach Black Signature Tote Bag",
+    "ai_description": "This Coach tote bag is made of black leather with a subtle, repeating pattern of dark brown Coach logos. It has two sturdy black leather handles and gold-tone hardware, including a secure snap closure on the front pocket. The Coach logo is prominently displayed in gold on the front of the bag. The bag's shape is structured, maintaining its form well. There are no visible signs of wear such as scratches, cracks, or tears on the leather. The interior of the bag is not visible in the image.",
+    "category_match": true,
+    "price_match": true,
+    "description_eval": {
+      "reasoning": "The AI-generated description includes some accurate details such as the mention of the Coach logo and sturdy handles, but it introduces hallucinations like the repeating pattern of dark brown Coach logos and the presence of a secure snap closure on the front pocket, which are not mentioned in the Ground Truth. Additionally, it focuses on the condition and visible signs of wear, which is not relevant to the product description. The AI description also fails to mention the spacious main compartment and the ideal uses of the bag (everyday use, work, or travel).",
+      "score": 2
+    }
+  },
+  {
+    "image_path": "Dataset/DeWalt 20V Max Cordless Drill.webp",
+    "original_title": "DeWalt 20V MAX Cordless Drill",
+    "original_description": "A DeWalt 20V MAX cordless drill and driver in the brand's iconic yellow and black colors. The tool features a textured pistol grip, an adjustable clutch, a keyless chuck with an inserted Phillips bit, and comes equipped with a 20V MAX Lithium-Ion battery.",
+    "ai_title": "DeWalt 20V MAX Cordless Drill",
+    "ai_description": "This DeWalt 20V MAX cordless drill features a yellow and black body with 'DEWALT' and '20V MAX' labeling. The handle is black, and it comes with a matching yellow and black lithium-ion battery pack. The drill is made of durable plastic and metal, with a sturdy design. There are minor scuffs on the battery pack but no significant damage to the drill itself.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description captures some vital details, such as the brand, voltage, and color scheme, but lacks specific information about the tool's features like the adjustable clutch and keyless chuck. It also introduces details not present in the Ground Truth, such as the material composition and minor scuffs on the battery pack, which can be considered hallucinations. The AI description does mention a matching yellow and black lithium-ion battery pack, which aligns with the Ground Truth, but overall, it does not fully match the accuracy and detail of the Ground Truth description.",
+      "score": 3
+    }
+  },
+  {
+    "image_path": "Dataset/Dr. Martens 1460 8-Eye Boots.webp",
+    "original_title": "Dr. Martens 1460 Smooth Leather 8-Eye Boot",
+    "original_description": "A classic black Dr. Martens 1460 boot featuring a smooth leather finish, an 8-eyelet lace-up design, the iconic yellow welt stitching, and a signature black and yellow AirWair heel loop. The boot sits on a traditional slip-resistant air-cushioned sole.",
+    "ai_title": "Dr. Martens Black Leather Boot",
+    "ai_description": "This boot is made of black leather and features a pull tab at the back with 'AirWair' branding in yellow letters on a black background. It has a lace-up closure with seven pairs of eyelets and a chunky sole with a ribbed edge and yellow stitching. The boot appears to be in good condition with no visible damage.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description captures some vital details, such as the black leather material, the lace-up closure, and the 'AirWair' branding with yellow letters. However, it inaccurately states that there are seven pairs of eyelets instead of eight and fails to mention the iconic yellow welt stitching. Additionally, the AI description introduces hallucinations, such as mentioning the boot's condition and the ribbed edge on the sole, which are not present in the Ground Truth description.",
+      "score": 3
+    }
+  },
+  {
+    "image_path": "Dataset/Dyson V11 Vacuum Cleaner.webp",
+    "original_title": "Dyson V11 Cordless Vacuum Cleaner",
+    "original_description": "The main handheld motor unit of a Dyson V11 cordless vacuum cleaner. It features a metallic grey casing, a transparent bagless dustbin, a multi-cyclone array, a red power trigger, and a distinct purple HEPA filter attached to the rear.",
+    "ai_title": "Dyson Handheld Vacuum Cleaner",
+    "ai_description": "This is a Dyson handheld vacuum cleaner. The main body of the vacuum is made of dark gray plastic. It has a clear plastic dust container and a purple translucent nozzle at the front. The handle is also dark gray with a red trigger. The 'dyson' logo is printed on the side of the device. The vacuum is in good condition with minor scuffs and potential scratches on the surface, but no visible cracks or significant damage.",
+    "category_match": false,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI description captures some vital details, such as the dark gray color and the presence of a red trigger. However, it contains inaccuracies like referring to the main body as 'dark gray plastic' instead of a metallic grey casing, and incorrectly describes the HEPA filter as a 'purple translucent nozzle'. Additionally, the AI description introduces hallucinations, like mentioning the 'dyson' logo, minor scuffs, and potential scratches, which are not present in the Ground Truth description.",
+      "score": 2
+    }
+  },
+  {
+    "image_path": "Dataset/Fender Stratocaster Electric Guitar.webp",
+    "original_title": "Fender Stratocaster Electric Guitar",
+    "original_description": "A classic Fender Stratocaster electric guitar featuring the iconic double-cutaway contoured body shape. It is equipped with three single-coil pickups, a 5-way pickup selector switch, master volume and dual tone controls, a synchronized tremolo bridge, and a bolt-on neck with the signature Fender headstock.",
+    "ai_title": "Fender Electric Guitar",
+    "ai_description": "This electric guitar has a glossy black body made of an unspecified material, likely alder or ash, and a light-colored wood neck and fretboard, likely maple. The guitar features a white pickguard, a white tremolo cover, and six strings. The neck has 22 medium-sized frets with black fret markers. The guitar has a bolt-on neck and a contoured body for comfortable playing. There are no visible signs of wear, such as scratches, dents, or cracks.",
+    "category_match": false,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description lacks vital details about the guitar model, specifically that it is a Fender Stratocaster, and fails to mention the signature Fender headstock, the number and type of pickups, and the 5-way pickup selector switch. While it provides some general details about the guitar's construction and appearance, it does not accurately capture the essence of the guitar. The description also includes some irrelevant details such as the presence of a white pickguard and a white tremolo cover, which are not mentioned in the Ground Truth description. However, it does correctly identify the bolt-on neck and contoured body.",
+      "score": 2
+    }
+  },
+  {
+    "image_path": "Dataset/Fluke 87V Digital Multimeter.webp",
+    "original_title": "Fluke 87V MAX True RMS Multimeter",
+    "original_description": "A heavy-duty, industrial-grade digital multimeter encased in a bright yellow protective holster. The front panel features a large digital LCD screen displaying an AC voltage reading, a central rotary dial for selecting measurement functions, various control buttons, and four input terminal jacks. The device displays an IP67 rating, indicating it is dustproof and waterproof.",
+    "ai_title": "Fluke 87V MAX True RMS Multimeter",
+    "ai_description": "The Fluke 87V MAX multimeter has a yellow and black plastic casing. The device features a digital display screen and various function buttons. The dial is centered and has multiple settings. There are no visible scratches, cracks, or damage on the device.",
+    "category_match": false,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description lacks vital details such as the device being industrial-grade and encased in a protective holster. It does not mention the IP67 rating, which is crucial for indicating the device's resistance to dust and water. The AI also incorrectly identifies the device as a Fluke 87V MAX, which is not specified in the Ground Truth. It includes irrelevant details such as the absence of scratches, cracks, or damage.",
+      "score": 2
+    }
+  },
+  {
+    "image_path": "Dataset/Fujifilm X-T4 Mirrorless Camera (with lens attached).webp",
+    "original_title": "Fujifilm X-T4 Camera with XF 16-55mm f/2.8 Lens",
+    "original_description": "A black Fujifilm X-T4 mirrorless digital camera paired with a professional Fujinon XF 16-55mm f/2.8 R LM WR zoom lens. The camera body features a retro-styled design with manual exposure dials and a textured grip.",
+    "ai_title": "Fujifilm X-T4 with Fujinon XF 55-55mm f/1.2 R LM WR Lens",
+    "ai_description": "This is a Fujifilm X-T4 camera body paired with a Fujinon XF 55-55mm f/1.2 R LM WR lens. The camera body is constructed with a textured black material, likely metal or high-quality plastic, and features a prominent 'FUJIFILM' logo on top, along with 'X-T4' model designation. The lens is a Fujinon XF 55-55mm f/1.2 R LM WR, indicated by the text on the lens barrel. The lens has a black finish with white text and markings. There are no visible signs of wear, such as scratches or cracks, on either the camera body or the lens.",
+    "category_match": true,
+    "price_match": true,
+    "description_eval": {
+      "reasoning": "The AI-generated description captures some vital details such as the camera model and lens brand. However, it contains inaccuracies like the lens model (55-55mm instead of 16-55mm) and aperture (f/1.2 instead of f/2.8). The description also includes unnecessary details about the 'FUJIFILM' logo and the condition of the camera, which are not present in the Ground Truth. Moreover, it incorrectly states the lens model and fails to mention the retro-styled design and manual exposure dials of the camera body.",
+      "score": 2
+    }
+  },
+  {
+    "image_path": "Dataset/Herman Miller Aeron Chair.webp",
+    "original_title": "Herman Miller Aeron Ergonomic Chair with Headrest",
+    "original_description": "A premium Herman Miller Aeron ergonomic office chair in the graphite colorway. It features a breathable Pellicle mesh seat and back, fully adjustable padded armrests, tilt mechanism controls, and an attached ergonomic headrest for comprehensive neck and back support.",
+    "ai_title": "Herman Miller Sayl Chair",
+    "ai_description": "This office chair is made of high-quality materials, including a durable metal frame, a breathable mesh seat and backrest, and a sturdy five-star base with smooth-rolling wheels. The chair has adjustable armrests and a headrest for optimal comfort and support. The mesh material provides excellent ventilation and flexibility. The frame and other components appear to be made of a durable, high-quality plastic or metal. There are no visible signs of wear or damage.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description captures some vital details such as the breathable mesh seat and backrest, adjustable armrests, and headrest for comfort and support. However, it fails to mention the specific brand (Herman Miller) and model (Aeron) of the chair, the colorway (graphite), and the type of mesh material (Pellicle). The AI description also introduces inaccuracies by mentioning a 'durable metal frame', 'sturdy five-star base with smooth-rolling wheels', and 'high-quality plastic or metal' components, which are not present in the Ground Truth description. Additionally, the AI description includes hallucinations such as 'no visible signs of wear or damage', which is not relevant to the product description.",
+      "score": 2
+    }
+  },
+  {
+    "image_path": "Dataset/Hydro Flask 32 oz Water Bottle (with stickers on it).webp",
+    "original_title": "Hydro Flask 32 oz Water Bottle (Customized/Used)",
+    "original_description": "A teal, insulated 32 oz wide-mouth water bottle with a black flex cap. The exterior is heavily personalized with assorted overlapping stickers, including Patagonia and Yeti logos, outdoor-themed graphics, and a woven string bracelet tied to the cap's carrying handle.",
+    "ai_title": "Patagonia Teal Metal Water Bottle with Stickers",
+    "ai_description": "This water bottle is made of metal and has a teal finish. It features a black plastic lid with a handle and a small rectangular indentation, possibly for a button or sensor. The Patagonia logo is prominently displayed in white text. The bottle is adorned with several stickers, including a stylized cactus design with 'YE' in teal on a yellow background. The colors are vibrant, and the stickers appear to be in good condition. The bottle's material and construction suggest durability.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description correctly identifies the bottle as teal and mentions the Patagonia logo. However, it inaccurately describes the bottle as made of metal when the Ground Truth states it's an insulated 32 oz wide-mouth water bottle, which is often associated with materials like stainless steel or plastic. The AI description also hallucinates details such as a rectangular indentation and incorrectly describes the Yeti logo. It fails to mention the size, the black flex cap, and the woven string bracelet tied to the cap's carrying handle. The AI description captures some details but introduces inaccuracies and misses key points.",
+      "score": 2
+    }
+  },
+  {
+    "image_path": "Dataset/Ikea Armchair.webp",
+    "original_title": "IKEA Poeng Armchair",
+    "original_description": "A classic IKEA Poeng armchair featuring a flexible, layer-glued bent birch wood frame. It is equipped with a dark navy blue textured fabric cushion that includes an integrated padded headrest for neck support.",
+    "ai_title": "IKEA POENG Chair",
+    "ai_description": "This chair has a sturdy light wood frame with a natural finish. The seat and backrest are covered in a dark teal fabric. It features a tall backrest with a cushioned headrest and broad armrests for support. The chair's legs end in small black plastic feet. There are no visible signs of wear such as scratches, scuffs, or cracks on the frame or upholstery.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI description captures some vital details like the presence of a headrest, but it introduces inaccuracies such as the color of the fabric (dark teal instead of dark navy blue) and the material of the frame's finish (natural light wood instead of layer-glued bent birch wood). Additionally, it includes hallucinations like the presence of broad armrests, small black plastic feet, and the condition of the chair (lack of visible signs of wear). The description fails to mention the IKEA Poeng armchair model and its flexible frame.",
+      "score": 2
+    }
+  },
+  {
+    "image_path": "Dataset/Instant Pot Duo 7-in-1 Cooker.webp",
+    "original_title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+    "original_description": "A stainless steel Instant Pot Duo multi-cooker resting on a kitchen counter. It features a black locking lid with a top handle and a teal front control panel with membrane buttons for various cooking presets such as 'Slow Cook', 'Saute', and 'Rice'. The red digital LED display is illuminated and reads 'On'.",
+    "ai_title": "Instant Pot Duo Pressure Cooker",
+    "ai_description": "The Instant Pot Duo is made of stainless steel with a black plastic lid and base. The control panel is light blue with black text and features a red LED display showing '0'. It has multiple buttons for various cooking functions including Soup/Broth, Meat/Stew, Bean/Chili, Slow Cook, Saute, and more. The device has a handle on top for easy lifting. The stainless steel body shows minor signs of use, with a small scratch on the top right side of the lid. The light blue control panel is clean and free of damage.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description captures the main details of the Instant Pot Duo, such as the stainless steel material, black lid, and multiple cooking functions. However, it contains inaccuracies like the control panel being light blue instead of teal, and the LED display showing '0' instead of 'On'. Additionally, the AI description includes hallucinations like minor signs of use and a small scratch on the lid, which are not present in the Ground Truth description.",
+      "score": 3
+    }
+  },
+  {
+    "image_path": "Dataset/Keychron K2 Mechanical Keyboard.webp",
+    "original_title": "Keychron K2 Wireless Mechanical Keyboard (Red Switches)",
+    "original_description": "A compact 75% layout Keychron K2 mechanical keyboard featuring a two-tone dark and light grey keycap set with a vibrant red accent 'esc' key. The image includes a detail shot of a linear red mechanical switch and a small set of interchangeable keycaps for swapping between Mac and Windows layouts.",
+    "ai_title": "WASD Code 104 Keyboard with Red Switches",
+    "ai_description": "This keyboard features a sleek black design with gray keys and white text. The keyboard has a tenkeyless layout with a red 'esc' key. It appears to be a programmable keyboard, likely from WASD Keyboards, a brand known for customizable keyboards. The keyboard seems to be new or unused, showing no visible wear or damage. The switch under the keycap is a red linear switch, which is a common choice for fast and quiet typing. The keyboard includes five additional keys: four gray and one red.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description captures some vital details, such as the red 'esc' key and the linear red mechanical switch, but it also contains inaccuracies and hallucinations. The AI incorrectly states the keyboard is from WASD Keyboards and has a black design with white text, when the Ground Truth states it's a Keychron K2 with a two-tone dark and light grey keycap set. Additionally, the AI mentions the keyboard is programmable and includes five additional keys, which is not present in the Ground Truth. The AI description also fails to mention the compact 75% layout and the interchangeable keycaps for swapping between Mac and Windows layouts.",
+      "score": 2
+    }
+  },
+  {
+    "image_path": "Dataset/Kindle Paperwhite (11th Gen).webp",
+    "original_title": "Amazon Kindle Paperwhite (11th Gen)",
+    "original_description": "The back panel of a black Amazon Kindle Paperwhite e-reader. It features a smooth, matte finish with the signature Amazon 'smile' logo subtly debossed in the upper center of the device.",
+    "ai_title": "Amazon Kindle E-reader",
+    "ai_description": "The item is an Amazon Kindle e-reader. It has a black, matte finish and a smooth surface. The Amazon logo is embossed at the top center of the device. There are no visible brand text, serial numbers, or additional features. The physical condition appears to be good with no visible scratches or cracks.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description correctly identifies the device as an Amazon Kindle e-reader and describes its finish as black and matte. However, it inaccurately states the Amazon logo is embossed, when in fact it is debossed according to the Ground Truth. Additionally, the AI description includes extra details not present in the Ground Truth, such as the lack of visible brand text, serial numbers, or additional features, and the physical condition being good with no scratches or cracks.",
+      "score": 4
+    }
+  },
+  {
+    "image_path": "Dataset/LEGO Star Wars Millennium Falcon Set (Assembled, no box).webp",
+    "original_title": "LEGO Star Wars UCS Millennium Falcon 75192 (Assembled)",
+    "original_description": "A massive, fully assembled LEGO Star Wars Ultimate Collector Series (UCS) Millennium Falcon. The highly detailed grey ship features complex exterior greebling, a cockpit canopy, and a sensor dish. It is displayed on a flat surface alongside its black informational plaque and a lineup of included Star Wars minifigures and small brick-built creatures.",
+    "ai_title": "Lego Star Wars Millennium Falcon Model",
+    "ai_description": "This is a detailed model of the Millennium Falcon, a iconic spaceship from the Star Wars franchise. The model is constructed from Lego bricks and features a range of intricate details, including a cockpit, engines, and panels. The primary color of the model is gray, with red, white, and yellow accents. The model includes a range of small parts and details, such as vents, panels, and a ramp. The model does not appear to have any significant wear or damage, such as scratches or cracks.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description captures some vital details of the product, such as the primary color (gray) and the inclusion of intricate details like a cockpit. However, it misses key details like the informational plaque, minifigures, and brick-built creatures. Additionally, it introduces inaccuracies by mentioning red, white, and yellow accents, which are not present in the Ground Truth. Furthermore, it hallucinates about the presence of a ramp and the condition of the model (no significant wear or damage). Overall, the AI description lacks accuracy and completeness in its representation of the product.",
+      "score": 3
+    }
+  },
+  {
+    "image_path": "Dataset/Levi's 501 Original Fit Jeans.webp",
+    "original_title": "Levi's 501 Original Fit Jeans",
+    "original_description": "A pair of classic Levi's 501 Original Fit jeans in a medium blue wash. The denim features a straight leg cut, traditional five-pocket styling, and metallic hardware, modeled on a person against a plain white backdrop.",
+    "ai_title": "Blue Denim Jeans",
+    "ai_description": "These blue denim jeans have a straight-leg fit and a classic five-pocket design. They are made of denim and have a medium blue color. The jeans appear to be in good condition with minimal fading. There are no visible tears, frays, or other damage.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI description accurately captures the straight-leg fit, classic five-pocket design, and medium blue color of the jeans. However, it fails to mention the specific brand (Levi's) and style (501 Original Fit), which are vital details. Additionally, the AI description introduces details not present in the Ground Truth, such as the condition and potential damage, which can be considered hallucinations.",
+      "score": 3
+    }
+  },
+  {
+    "image_path": "Dataset/Mid-Century Modern Walnut Coffee Table.webp",
+    "original_title": "Mid-Century Modern Walnut Coffee Table",
+    "original_description": "A rectangular mid-century modern coffee table with a rich walnut finish. The design features soft rounded edges, angled tapered legs, an open storage cubby displaying books, and a distinct slatted sliding door concealing an additional storage compartment.",
+    "ai_title": "Wooden Coffee Table with Slatted Front",
+    "ai_description": "This coffee table is constructed from wood and features a medium brown finish. It has a rectangular top with a slight lip around the edges and is supported by four tapered legs. One side of the table has a slatted panel design, adding a decorative element. The table includes a shelf or compartment on the front, which is currently holding two books. The surface is smooth and even, with no noticeable scratches or damage. The overall design is modern and minimalist, suitable for a living room or similar setting.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description accurately captures the rectangular shape and general modern design of the coffee table. It also mentions the presence of tapered legs and a storage compartment, which matches the Ground Truth. However, it fails to specifically mention the walnut finish, soft rounded edges, and the slatted sliding door, instead describing a more generic 'slatted panel design'. Additionally, it describes the finish as 'medium brown' rather than 'rich walnut', and does not mention the open storage cubby displaying books as a distinct design feature.",
+      "score": 4
+    }
+  },
+  {
+    "image_path": "Dataset/Nike Air Jordan 1 Retro High.webp",
+    "original_title": "Nike Air Jordan 1 Retro High OG 'University Blue'",
+    "original_description": "A high-top Nike Air Jordan 1 sneaker featuring a white tumbled leather base with University Blue suede overlays. The shoe includes a black leather Nike Swoosh, black laces, a black collar, and the classic Air Jordan Wings logo stamped on the ankle.",
+    "ai_title": "Air Jordan High-Top Sneaker in Light Blue, White, and Black",
+    "ai_description": "This high-top sneaker is primarily constructed from leather or synthetic materials in light blue, white, and black. The upper part is light blue with white and black accents. It has a black Nike swoosh logo on the side and a black 'AIR JORDAN' logo with a winged basketball design on the tongue. The shoe features black laces and a black inner collar. The midsole is white, and the outsole is light blue with a distinctive tread pattern. There are no visible scratches, scuffs, or damage on the shoe.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description captures some vital details such as the presence of a black Nike swoosh logo, black laces, and a black collar. However, it contains inaccuracies and hallucinations, like mentioning the shoe is 'primarily constructed from leather or synthetic materials' without specifying, describing the 'AIR JORDAN' logo with a winged basketball design on the tongue which is not present in the ground truth, and mentioning the midsole and outsole details which are not provided in the ground truth. Additionally, it fails to mention the specific 'University Blue suede overlays' and 'tumbled leather base' as described in the ground truth.",
+      "score": 3
+    }
+  },
+  {
+    "image_path": "Dataset/Nintendo Switch OLED Model.webp",
+    "original_title": "Nintendo Switch OLED Model (White)",
+    "original_description": "Nintendo Switch OLED console with attached white Joy-Con controllers. The device features a 7-inch screen displaying a colorful abstract pattern.",
+    "ai_title": "Nintendo Switch Console",
+    "ai_description": "The Nintendo Switch console has a white plastic body with a 6.2-inch screen. The screen features a vibrant, multicolored background. The device has a black bezel around the screen and black buttons and joysticks. The console is in good condition with no visible damage.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description inaccurately states the screen size as 6.2 inches instead of 7 inches. It also fails to mention the OLED feature and the attached Joy-Con controllers. Additionally, it introduces incorrect details such as a black bezel, black buttons, and joysticks, and the condition of the console, which are not present in the Ground Truth. However, it correctly captures the vibrant, multicolored background on the screen.",
+      "score": 2
+    }
+  },
+  {
+    "image_path": "Dataset/Patagonia Better Sweater Fleece Jacket.webp",
+    "original_title": "Patagonia Men's Better Sweater Full-Zip Fleece",
+    "original_description": "A dark charcoal grey Patagonia Better Sweater full-zip fleece jacket. It features a sweater-knit face, a zip-through stand-up collar, a vertical zippered left-chest pocket bearing the classic Patagonia woven label, and two zippered handwarmer pockets.",
+    "ai_title": "Patagonia Dark Gray Zip-Up Jacket",
+    "ai_description": "This is a dark gray, Patagonia-branded zip-up jacket. The jacket appears to be made of a textured material, likely fleece or a similar fabric. It has a high collar and is equipped with two side pockets that have zippered closures. The front features a dual zipper system with one zipper on top of the other. A blue and white Patagonia logo is prominently displayed on the left chest area. The jacket is long-sleeved and seems to be in good condition with no visible scratches, scuffs, or tears.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description accurately captures the vital details of the product such as its color, brand, and type. However, it introduces some inaccuracies like describing the Patagonia logo as blue and white, which contradicts the Ground Truth's mention of the classic Patagonia woven label without specifying colors. Additionally, the AI description adds details not present in the Ground Truth, such as the condition of the jacket and the dual zipper system, which could be considered hallucinations. The score is also influenced by the omission of the specific detail about the sweater-knit face and the zippered left-chest pocket bearing the Patagonia label.",
+      "score": 3
+    }
+  },
+  {
+    "image_path": "Dataset/Philips Hue Smart Starter Kit (In Box).webp",
+    "original_title": "Philips Hue White and Color Ambiance Starter Kit (2-Pack)",
+    "original_description": "A brand new, in-box Philips Hue smart lighting starter kit. The value pack includes one Philips Hue Bridge and two E26 smart LED color bulbs (9.5W / 60W equivalent, 800 lumens). The packaging highlights connectivity via Bluetooth and Zigbee, as well as compatibility with Matter, Amazon Alexa, Apple Home, and Google Home.",
+    "ai_title": "Philips Hue Smart Lighting Starter Kit with 1 Hue Bridge and 2 Color Bulbs",
+    "ai_description": "This Philips Hue starter kit includes one white Philips Hue Bridge and two Philips Hue white and color bulbs. The bridge is white with a blue circle on the front and has 'Philips hue' printed on it. The bulbs are also white with silver bases and have 'Philips hue white and color' printed on them. The box is in good condition with no visible damage or wear.",
+    "category_match": false,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description lacks vital details such as the number of bulbs (it only mentions two but doesn't specify the type or wattage), compatibility with various smart home systems (Matter, Amazon Alexa, Apple Home, and Google Home), and it doesn't mention the packaging highlights. It includes hallucinations such as describing the bridge and bulbs' appearance. The AI description also fails to mention the in-box status, the value pack, and lumens information provided in the Ground Truth.",
+      "score": 2
+    }
+  },
+  {
+    "image_path": "Dataset/PlayStation 5 Disc Edition Console.webp",
+    "original_title": "Sony PlayStation 5 Slim Console (Disc Edition)",
+    "original_description": "A Sony PlayStation 5 Slim video game console positioned vertically. It features a distinctive dual-tone design with a glossy black center core flanked by curved white outer panels. A horizontal seam divides the side panels, and an integrated Blu-ray disc drive is visible on the lower right side.",
+    "ai_title": "PlayStation 5 Console",
+    "ai_description": "The PlayStation 5 console is primarily white with a black interior and accents. The exterior material appears to be a smooth, matte plastic. The console features a unique curved design. The PlayStation logo is embossed on the top left corner. There are no visible signs of wear such as scratches or cracks. The console has a thin black line that wraps around the body, separating the white and black sections. The sides and interior of the console are black with a blue light visible on the right side.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description captures some vital details, such as the curved design and the presence of a black and white color scheme. However, it inaccurately describes the exterior material as matte plastic and fails to mention the glossy black center core. Additionally, the AI-generated description introduces hallucinations, such as the embossed PlayStation logo and the blue light visible on the right side, which are not present in the Ground Truth description. The description also incorrectly states that the console is primarily white with a black interior.",
+      "score": 2
+    }
+  },
+  {
+    "image_path": "Dataset/Pokemon TCG Base Set Charizard Holographic Card.webp",
+    "original_title": "Pokemon TCG Base Set Unlimited Charizard Holo 4/102",
+    "original_description": "Vintage 1999 Pokemon TCG holographic Charizard card from the Unlimited Base Set (#4/102). Features classic Mitsuhiro Arita artwork, 120 HP, and the Fire Spin attack.",
+    "ai_title": "Charizard Pokemon Card",
+    "ai_description": "This is a Pokemon trading card featuring Charizard. The card has a yellow border and a holographic foil finish. The top of the card displays the name 'Charizard' in black text, with '120 HP' in red text to the right. The card image shows a yellow dragon-like creature with blue wings and a flame on its tail. The card includes details such as the Pokemon's name, HP, and various stats and abilities. The card is made of cardstock and has a glossy finish. The edges of the card show minor wear and a slight curve.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description captures some details about the card's appearance, such as the yellow border, holographic foil finish, and the creature's image. However, it fails to mention the card's rarity, set, year of release, or the specific attack 'Fire Spin'. It also includes irrelevant details about the card's material and edge wear, and makes no mention of the artist Mitsuhiro Arita. The AI description also omits crucial information about the card being from the Unlimited Base Set (#4/102).",
+      "score": 2
+    }
+  },
+  {
+    "image_path": "Dataset/Ray-Ban Wayfarer Sunglasses.webp",
+    "original_title": "Ray-Ban Original Wayfarer Sunglasses",
+    "original_description": "A classic pair of Ray-Ban Original Wayfarer sunglasses featuring a glossy black acetate frame, dark tinted lenses, and the iconic silver rivet hardware on the front corners. The signature Ray-Ban logo is printed in white on the upper right lens, with the subtle 'RB' etching on the left lens.",
+    "ai_title": "Ray-Ban Black Sunglasses",
+    "ai_description": "These sunglasses feature a black frame made of acetate or a similar material with a glossy finish. The lenses are dark black, providing UV protection. The frame has a classic shape with a slight curve. The Ray-Ban logo is prominently displayed in white cursive on the upper left and right corners of the lenses. The sunglasses have a standard size and shape, suitable for various face types. There are no visible scratches or damage on the frame or lenses.",
+    "category_match": false,
+    "price_match": true,
+    "description_eval": {
+      "reasoning": "The AI-generated description captures the overall classic shape and style of the sunglasses, including the glossy black acetate frame and dark tinted lenses. However, it inaccurately places the Ray-Ban logo in cursive on both the upper left and right corners of the lenses and does not mention the iconic silver rivet hardware. It also introduces non-essential details like UV protection and the absence of scratches or damage, which are not present in the Ground Truth.",
+      "score": 3
+    }
+  },
+  {
+    "image_path": "Dataset/Ridge Minimalist Aluminum Wallet.webp",
+    "original_title": "The Ridge Minimalist Aluminum Wallet",
+    "original_description": "A matte black aluminum minimalist wallet by Ridge. It features an expanding main card compartment and an exterior elastic cash strap secured by the signature 'R' logo plate.",
+    "ai_title": "R Wallet - Black Metal Card Holder",
+    "ai_description": "This wallet is made of black metal and has a sleek, modern design. It features a card slot on top that holds a card with the numbers '9010 123' visible. Below the card slot, there is a cash compartment containing a $100 bill. The wallet has a textured side and a hexagonal 'R' logo embossed on the front. The material appears to be metal, and the color is black. There are no visible scratches, scuffs, or cracks on the item.",
+    "category_match": false,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description includes some accurate details, such as the material being metal and the color being black. However, it also introduces hallucinations like the card slot with visible card numbers '9010 123', a $100 bill in the cash compartment, and a textured side, which are not present in the Ground Truth description. Additionally, it misrepresents the 'R' logo as being hexagonal and embossed on the front, whereas the Ground Truth states it's a signature 'R' logo plate.",
+      "score": 2
+    }
+  },
+  {
+    "image_path": "Dataset/Sony WH-1000XM4.webp",
+    "original_title": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones",
+    "original_description": "A pair of premium Sony WH-1000XM4 over-ear wireless headphones in a matte black finish. The sleek design features plush ear cushions, an adjustable padded headband, and distinct gold accents, including the Sony logo and the microphone ports on the ear cups.",
+    "ai_title": "Sony Wireless Headphones",
+    "ai_description": "The headphones are made of black plastic and have a foldable design. The ear cups are circular and have a slight texture to them. The headband is also black and has a gold 'SONY' logo on the right side. There are no visible scratches or damage to the headphones. They appear to be in good condition.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description captures some basic details such as the color and material, but it lacks the specificity and precision of the Ground Truth description. The AI description mentions a foldable design, which is not mentioned in the Ground Truth. Additionally, it fails to mention the premium nature of the headphones, the matte finish, plush ear cushions, adjustable padded headband, and distinct gold accents. The AI description also includes details not present in the Ground Truth, such as the texture of the ear cups and the condition of the headphones, which could be considered hallucinations.",
+      "score": 2
+    }
+  },
+  {
+    "image_path": "Dataset/Stanley 25ft Tape Measure.webp",
+    "original_title": "Stanley 25-Foot Tape Measure (Model 30-455)",
+    "original_description": "A classic Stanley 25-foot measuring tape featuring a high-visibility yellow impact-resistant case. The tape is slightly extended, displaying standard inch markings, a metal hook end, and a black thumb-operated blade lock mechanism.",
+    "ai_title": "Stanley 25' Tape Measure",
+    "ai_description": "This Stanley tape measure is a 25-foot model. The body of the tape measure is made of yellow plastic. It has a black button on the side for retracting and extending the tape. The tape itself is yellow with black markings. There is a black label on the front with 'STANLEY' written in white text on a black background. Below that, it says '25'' in large white text. The condition of the tape measure appears to be new or lightly used, with no visible scratches or damage.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description captures the vital details such as the brand (Stanley), the length of the tape measure (25-foot), and the color of the tape (yellow with black markings). However, it lacks details about the high-visibility yellow impact-resistant case and the metal hook end. Additionally, the AI introduces hallucinations by mentioning a 'black button on the side for retracting and extending the tape', a 'black label on the front', and the condition of the tape measure, which are not present in the Ground Truth description. The AI also inaccurately describes the blade lock mechanism as a 'black button'.",
+      "score": 3
+    }
+  },
+  {
+    "image_path": "Dataset/Yeti Rambler 20 oz Tumbler.webp",
+    "original_title": "YETI Rambler 20 oz Tumbler with MagSlider Lid",
+    "original_description": "A light blue YETI Rambler 20 oz stainless steel insulated tumbler. It features a transparent plastic lid equipped with a black magnetic MagSlider closure. The body has a textured pastel blue finish with exposed polished stainless steel at the top rim and bottom base, where the YETI logo is prominently embossed.",
+    "ai_title": "YETI Light Blue Tumbler with Clear Lid",
+    "ai_description": "This YETI tumbler features a light blue powder-coated exterior with silver metal accents on the top and bottom. The clear plastic lid has a black interior and a small tab on top for easy opening. The YETI logo is displayed in silver on the bottom front of the tumbler. The tumbler is made of durable materials and appears to be in excellent condition with no visible scratches or damage.",
+    "category_match": true,
+    "price_match": false,
+    "description_eval": {
+      "reasoning": "The AI-generated description captures the main details of the product, such as the light blue color, clear plastic lid, and YETI logo. However, it introduces some inaccuracies and hallucinations, such as describing the exterior as 'powder-coated' instead of 'textured pastel blue finish', mentioning 'silver metal accents' instead of 'exposed polished stainless steel', and stating the YETI logo is 'displayed in silver' instead of 'prominently embossed'. Additionally, the AI description includes details not present in the ground truth, such as the tumbler being 'in excellent condition' and having 'no visible scratches or damage'.",
+      "score": 3
+    }
+  }
+]

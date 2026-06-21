@@ -1,0 +1,212 @@
+[
+     {
+        "image_path": "Dataset/Apple Watch Series 8(scratched).webp",
+        "title": "Apple Watch Series 8 (Heavily Scratched)",
+        "description": "Apple Watch Series 8 featuring a silver-tone aluminum case and a metallic Milanese loop band. The device is in poor cosmetic condition, exhibiting extensive, highly visible scratches across the entire glass display and heavy scuffing on the band's magnetic connector.",
+        "category": "Electronics",
+        "price": 125.00
+    },
+    {
+        "image_path": "Dataset/Bowflex SelectTech 552 Adjustable Dumbbells.webp",
+        "title": "Bowflex SelectTech 552 Adjustable Dumbbells",
+        "description": "A pair of adjustable dumbbells resting in their custom molded base trays. Each dumbbell features a dial selection system on the ends, allowing the user to easily adjust the weight from 5 to 52.5 lbs. The dumbbells have black weight plates with red accents on the handles and dials.",
+        "category": "other / miscellaneous",
+        "price": 300.00
+    },
+    {
+        "image_path": "Dataset/Catan (Settlers of Catan) Board Game.webp",
+        "title": "Catan (Settlers of Catan) Board Game",
+        "description": "The classic strategy board game Catan set up mid-play. The image displays the modular hexagonal board composed of various resource tiles, surrounded by water and port borders. It features colorful wooden player pieces representing roads, settlements, and cities, along with circular number tokens, two six-sided dice, and the black robber pawn.",
+        "category": "other / miscellaneous",
+        "price": 49.99
+    },
+    {
+        "image_path": "Dataset/Coach Leather Tote Bag.webp",
+        "title": "Coach Leather Tote Bag",
+        "description": "A premium Coach leather tote bag featuring a spacious main compartment, sturdy double shoulder straps, and the signature Coach logo hangtag. Crafted from high-quality leather, this versatile accessory is ideal for everyday use, work, or travel.",
+        "category": "Clothing",
+        "price": 250.00
+    },
+    {
+        "image_path": "Dataset/DeWalt 20V Max Cordless Drill.webp",
+        "title": "DeWalt 20V MAX Cordless Drill",
+        "description": "A DeWalt 20V MAX cordless drill and driver in the brand's iconic yellow and black colors. The tool features a textured pistol grip, an adjustable clutch, a keyless chuck with an inserted Phillips bit, and comes equipped with a 20V MAX Lithium-Ion battery.",
+        "category": "Tools",
+        "price": 99.00
+    },
+    {
+        "image_path": "Dataset/Dr. Martens 1460 8-Eye Boots.webp",
+        "title": "Dr. Martens 1460 Smooth Leather 8-Eye Boot",
+        "description": "A classic black Dr. Martens 1460 boot featuring a smooth leather finish, an 8-eyelet lace-up design, the iconic yellow welt stitching, and a signature black and yellow AirWair heel loop. The boot sits on a traditional slip-resistant air-cushioned sole.",
+        "category": "Clothing",
+        "price": 170.00
+    },
+    {
+        "image_path": "Dataset/Dyson V11 Vacuum Cleaner.webp",
+        "title": "Dyson V11 Cordless Vacuum Cleaner",
+        "description": "The main handheld motor unit of a Dyson V11 cordless vacuum cleaner. It features a metallic grey casing, a transparent bagless dustbin, a multi-cyclone array, a red power trigger, and a distinct purple HEPA filter attached to the rear.",
+        "category": "Home",
+        "price": 450.00
+    },
+    {
+        "image_path": "Dataset/Fender Stratocaster Electric Guitar.webp",
+        "title": "Fender Stratocaster Electric Guitar",
+        "description": "A classic Fender Stratocaster electric guitar featuring the iconic double-cutaway contoured body shape. It is equipped with three single-coil pickups, a 5-way pickup selector switch, master volume and dual tone controls, a synchronized tremolo bridge, and a bolt-on neck with the signature Fender headstock.",
+        "category": "other / miscellaneous",
+        "price": 849.00
+    },
+    {
+        "image_path": "Dataset/Fluke 87V Digital Multimeter.webp",
+        "title": "Fluke 87V MAX True RMS Multimeter",
+        "description": "A heavy-duty, industrial-grade digital multimeter encased in a bright yellow protective holster. The front panel features a large digital LCD screen displaying an AC voltage reading, a central rotary dial for selecting measurement functions, various control buttons, and four input terminal jacks. The device displays an IP67 rating, indicating it is dustproof and waterproof.",
+        "category": "Tools",
+        "price": 550.00
+    },
+    {
+        "image_path": "Dataset/Fujifilm X-T4 Mirrorless Camera (with lens attached).webp",
+        "title": "Fujifilm X-T4 Camera with XF 16-55mm f/2.8 Lens",
+        "description": "A black Fujifilm X-T4 mirrorless digital camera paired with a professional Fujinon XF 16-55mm f/2.8 R LM WR zoom lens. The camera body features a retro-styled design with manual exposure dials and a textured grip.",
+        "category": "Electronics",
+        "price": 1950.00
+    },
+    {
+        "image_path": "Dataset/Herman Miller Aeron Chair.webp",
+        "title": "Herman Miller Aeron Ergonomic Chair with Headrest",
+        "description": "A premium Herman Miller Aeron ergonomic office chair in the graphite colorway. It features a breathable Pellicle mesh seat and back, fully adjustable padded armrests, tilt mechanism controls, and an attached ergonomic headrest for comprehensive neck and back support.",
+        "category": "Furniture",
+        "price": 1350.00
+    },
+    {
+        "image_path": "Dataset/Hydro Flask 32 oz Water Bottle (with stickers on it).webp",
+        "title": "Hydro Flask 32 oz Water Bottle (Customized/Used)",
+        "description": "A teal, insulated 32 oz wide-mouth water bottle with a black flex cap. The exterior is heavily personalized with assorted overlapping stickers, including Patagonia and Yeti logos, outdoor-themed graphics, and a woven string bracelet tied to the cap's carrying handle.",
+        "category": "Home",
+        "price": 15.00
+    },
+    {
+        "image_path": "Dataset/Ikea Armchair.webp",
+        "title": "IKEA Poäng Armchair",
+        "description": "A classic IKEA Poäng armchair featuring a flexible, layer-glued bent birch wood frame. It is equipped with a dark navy blue textured fabric cushion that includes an integrated padded headrest for neck support.",
+        "category": "Furniture",
+        "price": 149.00
+    },
+    {
+        "image_path": "Dataset/Instant Pot Duo 7-in-1 Cooker.webp",
+        "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+        "description": "A stainless steel Instant Pot Duo multi-cooker resting on a kitchen counter. It features a black locking lid with a top handle and a teal front control panel with membrane buttons for various cooking presets such as 'Slow Cook', 'Sauté', and 'Rice'. The red digital LED display is illuminated and reads 'On'.",
+        "category": "Home",
+        "price": 99.99
+    },
+    {
+        "image_path": "Dataset/Keychron K2 Mechanical Keyboard.webp",
+        "title": "Keychron K2 Wireless Mechanical Keyboard (Red Switches)",
+        "description": "A compact 75% layout Keychron K2 mechanical keyboard featuring a two-tone dark and light grey keycap set with a vibrant red accent 'esc' key. The image includes a detail shot of a linear red mechanical switch and a small set of interchangeable keycaps for swapping between Mac and Windows layouts.",
+        "category": "Electronics",
+        "price": 99.00
+    },
+    {
+        "image_path": "Dataset/Kindle Paperwhite (11th Gen).webp",
+        "title": "Amazon Kindle Paperwhite (11th Gen)",
+        "description": "The back panel of a black Amazon Kindle Paperwhite e-reader. It features a smooth, matte finish with the signature Amazon 'smile' logo subtly debossed in the upper center of the device.",
+        "category": "Electronics",
+        "price": 139.99
+    },
+    {
+        "image_path": "Dataset/LEGO Star Wars Millennium Falcon Set (Assembled, no box).webp",
+        "title": "LEGO Star Wars UCS Millennium Falcon 75192 (Assembled)",
+        "description": "A massive, fully assembled LEGO Star Wars Ultimate Collector Series (UCS) Millennium Falcon. The highly detailed grey ship features complex exterior greebling, a cockpit canopy, and a sensor dish. It is displayed on a flat surface alongside its black informational plaque and a lineup of included Star Wars minifigures and small brick-built creatures.",
+        "category": "other / miscellaneous",
+        "price": 650.00
+    },
+    {
+        "image_path": "Dataset/Levi's 501 Original Fit Jeans.webp",
+        "title": "Levi's 501 Original Fit Jeans",
+        "description": "A pair of classic Levi's 501 Original Fit jeans in a medium blue wash. The denim features a straight leg cut, traditional five-pocket styling, and metallic hardware, modeled on a person against a plain white backdrop.",
+        "category": "Clothing",
+        "price": 79.50
+    },
+    {
+        "image_path": "Dataset/Mid-Century Modern Walnut Coffee Table.webp",
+        "title": "Mid-Century Modern Walnut Coffee Table",
+        "description": "A rectangular mid-century modern coffee table with a rich walnut finish. The design features soft rounded edges, angled tapered legs, an open storage cubby displaying books, and a distinct slatted sliding door concealing an additional storage compartment.",
+        "category": "Furniture",
+        "price": 249.00
+    },
+    {
+        "image_path": "Dataset/Nike Air Jordan 1 Retro High.webp",
+        "title": "Nike Air Jordan 1 Retro High OG 'University Blue'",
+        "description": "A high-top Nike Air Jordan 1 sneaker featuring a white tumbled leather base with University Blue suede overlays. The shoe includes a black leather Nike Swoosh, black laces, a black collar, and the classic Air Jordan Wings logo stamped on the ankle.",
+        "category": "Clothing",
+        "price": 170.00
+    },
+    {
+        "image_path": "Dataset/Nintendo Switch OLED Model.webp",
+        "title": "Nintendo Switch OLED Model (White)",
+        "description": "Nintendo Switch OLED console with attached white Joy-Con controllers. The device features a 7-inch screen displaying a colorful abstract pattern.",
+        "category": "Electronics",
+        "price": 349.99
+    },
+    {
+        "image_path": "Dataset/Patagonia Better Sweater Fleece Jacket.webp",
+        "title": "Patagonia Men's Better Sweater Full-Zip Fleece",
+        "description": "A dark charcoal grey Patagonia Better Sweater full-zip fleece jacket. It features a sweater-knit face, a zip-through stand-up collar, a vertical zippered left-chest pocket bearing the classic Patagonia woven label, and two zippered handwarmer pockets.",
+        "category": "Clothing",
+        "price": 159.00
+    },
+    {
+        "image_path": "Dataset/Philips Hue Smart Starter Kit (In Box).webp",
+        "title": "Philips Hue White and Color Ambiance Starter Kit (2-Pack)",
+        "description": "A brand new, in-box Philips Hue smart lighting starter kit. The value pack includes one Philips Hue Bridge and two E26 smart LED color bulbs (9.5W / 60W equivalent, 800 lumens). The packaging highlights connectivity via Bluetooth and Zigbee, as well as compatibility with Matter, Amazon Alexa, Apple Home, and Google Home.",
+        "category": "Home",
+        "price": 129.99
+    },
+    {
+        "image_path": "Dataset/PlayStation 5 Disc Edition Console.webp",
+        "title": "Sony PlayStation 5 Slim Console (Disc Edition)",
+        "description": "A Sony PlayStation 5 Slim video game console positioned vertically. It features a distinctive dual-tone design with a glossy black center core flanked by curved white outer panels. A horizontal seam divides the side panels, and an integrated Blu-ray disc drive is visible on the lower right side.",
+        "category": "Electronics",
+        "price": 499.99
+    },
+    {
+        "image_path": "Dataset/Pokemon TCG Base Set Charizard Holographic Card.webp",
+        "title": "Pokémon TCG Base Set Unlimited Charizard Holo 4/102",
+        "description": "Vintage 1999 Pokémon TCG holographic Charizard card from the Unlimited Base Set (#4/102). Features classic Mitsuhiro Arita artwork, 120 HP, and the Fire Spin attack.",
+        "category": "other / miscellaneous",
+        "price": 200.00
+    },
+    {
+        "image_path": "Dataset/Ray-Ban Wayfarer Sunglasses.webp",
+        "title": "Ray-Ban Original Wayfarer Sunglasses",
+        "description": "A classic pair of Ray-Ban Original Wayfarer sunglasses featuring a glossy black acetate frame, dark tinted lenses, and the iconic silver rivet hardware on the front corners. The signature Ray-Ban logo is printed in white on the upper right lens, with the subtle 'RB' etching on the left lens.",
+        "category": "Clothing",
+        "price": 160.00
+    },
+    {
+        "image_path": "Dataset/Ridge Minimalist Aluminum Wallet.webp",
+        "title": "The Ridge Minimalist Aluminum Wallet",
+        "description": "A matte black aluminum minimalist wallet by Ridge. It features an expanding main card compartment and an exterior elastic cash strap secured by the signature 'R' logo plate.",
+        "category": "Clothing",
+        "price": 95.00
+    },
+    {
+        "image_path": "Dataset/Sony WH-1000XM4.webp",
+        "title": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones",
+        "description": "A pair of premium Sony WH-1000XM4 over-ear wireless headphones in a matte black finish. The sleek design features plush ear cushions, an adjustable padded headband, and distinct gold accents, including the Sony logo and the microphone ports on the ear cups.",
+        "category": "Electronics",
+        "price": 348.00
+    },
+    {
+        "image_path": "Dataset/Stanley 25ft Tape Measure.webp",
+        "title": "Stanley 25-Foot Tape Measure (Model 30-455)",
+        "description": "A classic Stanley 25-foot measuring tape featuring a high-visibility yellow impact-resistant case. The tape is slightly extended, displaying standard inch markings, a metal hook end, and a black thumb-operated blade lock mechanism.",
+        "category": "Tools",
+        "price": 12.99
+    },
+    {
+        "image_path": "Dataset/Yeti Rambler 20 oz Tumbler.webp",
+        "title": "YETI Rambler 20 oz Tumbler with MagSlider Lid",
+        "description": "A light blue YETI Rambler 20 oz stainless steel insulated tumbler. It features a transparent plastic lid equipped with a black magnetic MagSlider closure. The body has a textured pastel blue finish with exposed polished stainless steel at the top rim and bottom base, where the YETI logo is prominently embossed.",
+        "category": "Home",
+        "price": 35.00
+    }
+]

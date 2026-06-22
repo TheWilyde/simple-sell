@@ -1,10 +1,19 @@
 import ImageDropzone from "./ImageDropzone";
+import ApiKeyInput from "./ApiKeyInput";
 
 type IdlePhaseProps = {
+  groqApiKey: string;
+  apiKeyError?: string | null;
+  onGroqApiKeyChange: (value: string) => void;
   onImageSelected: (file: File) => void;
 };
 
-function IdlePhase({ onImageSelected }: IdlePhaseProps) {
+function IdlePhase({
+  groqApiKey,
+  apiKeyError,
+  onGroqApiKeyChange,
+  onImageSelected,
+}: IdlePhaseProps) {
 
   return (
     <section className="flex w-full max-w-xl flex-col gap-8">
@@ -20,6 +29,12 @@ function IdlePhase({ onImageSelected }: IdlePhaseProps) {
           
         </p>
       </div>
+
+      <ApiKeyInput
+        value={groqApiKey}
+        error={apiKeyError}
+        onChange={onGroqApiKeyChange}
+      />
 
       <ImageDropzone onImageSelected={onImageSelected} />
     </section>

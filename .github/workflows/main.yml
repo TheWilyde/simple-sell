@@ -1,0 +1,73 @@
+name: Sanity Checks
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  backend-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: Install uv and dependencies
+        working-directory: ./backend
+        run: |
+          pip install uv
+          uv pip install --system -r pyproject.toml
+
+      - name: Verify FastAPI imports
+        working-directory: ./backend
+        # This proves your app can boot without crashing from missing packages
+        run: python -c "from app.main import app" 
+      
+      - name: Run Backend Tests
+        working-directory: ./backend
+        run: uv run pytest
+
+  frontend-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 11
+
+      - name: Install dependencies
+        working-directory: ./frontend
+        run: pnpm install --frozen-lockfile
+
+      - name: Lint Code
+        working-directory: ./frontend
+        run: pnpm lint
+
+      - name: Build Static Site
+        working-directory: ./frontend
+        run: pnpm build
+
+  docker-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Build Backend Docker Image
+        working-directory: ./backend
+        # This proves your Dockerfile syntax is valid and builds successfully
+        run: docker build -t simple-sell-backend .

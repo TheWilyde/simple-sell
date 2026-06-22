@@ -1,21 +1,20 @@
 import base64
-import os
-from dotenv import load_dotenv
 from groq import AsyncGroq
 import instructor
-from schemas import Item
-
-load_dotenv()
-
-raw_client = AsyncGroq(api_key=os.getenv("GROQ_API_KEY"))
-groq_client = instructor.from_groq(raw_client, mode=instructor.Mode.JSON)
+from app.schemas import Item
 
 def encode_image(image_file):
     #with open(image_path, "rb") as image_file:
     return base64.b64encode(image_file).decode('utf-8')
 
 
-async def generate_listing(groq_client, image, user_title_hint=None):
+def create_groq_client(api_key):
+    raw_client = AsyncGroq(api_key=api_key)
+    return instructor.from_groq(raw_client, mode=instructor.Mode.JSON)
+
+
+async def generate_listing(api_key, image, user_title_hint=None):
+    groq_client = create_groq_client(api_key)
     image_base64 = encode_image(image)
     return await groq_client.chat.completions.create(
         model="meta-llama/llama-4-scout-17b-16e-instruct",

@@ -1,4 +1,4 @@
-import { DollarSign, FileText, Grid3X3, RefreshCw, ScanLine, Tag } from "lucide-react";
+import { DollarSign, FileText, Grid3X3, RefreshCw, Tag } from "lucide-react";
 import ListingField from "./ListingField";
 import type { Listing } from "../types/listing";
 

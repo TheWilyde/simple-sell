@@ -7,7 +7,9 @@ app = FastAPI()
 
 origins = [
     "http://localhost",
-    "http://localhost:5173"
+    "http://localhost:5173",
+    "https://simplesell.netlify.app/",
+    "https://simplesell.wilyde.com/"
 ]
 
 production_frontend = os.getenv("FRONTEND_URL")
